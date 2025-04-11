@@ -19,4 +19,5 @@ Make sure you have Python 3.x installed. Then install the required libraries:
 
 ```bash
 pip install opencv-python math
-opencv-python
+pip install opencv-python
+pip install pyautogui
